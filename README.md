@@ -22,4 +22,4 @@ To do this, head to about:config -> security.fileuri.strict_origin_policy -> fal
 
 ## Screenshots
 
-![Screenshot of project](C:\Users\Xrhstos\Desktop\sc1.jpg?raw=true)
+![Screenshot of project](https://github.com/ChrisTs8920/webgl-3d-graphics/blob/main/output/sc.jpg?raw=true)
