@@ -1,5 +1,7 @@
 # WebGL - 3D Dog
 
+## Description
+
 This WebGL JavaScript project creates a 3D dog model along with some basic animations.
 
 *This project was made during my Computer Graphics course in University.*
